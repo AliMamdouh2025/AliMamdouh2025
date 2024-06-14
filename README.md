@@ -1,7 +1,7 @@
  # Hi,👋 I’m Ali Mamdouh 
  ## An Embedded System Developer From Egypt
 - 🌱 I’m currently learning Embedded Linux
-- 📫 How to reach me through https://www.linkedin.com/in/ali-mamdouh-11aa1a233/
+- 📫 How to reach me https://www.linkedin.com/in/ali-mamdouh-11aa1a233/
 - Electronics and Electrical Communication Engineering student at Cairo University
 - Participate in developing Embedded System of Cairo Racing Team car
 
