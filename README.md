@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Embedded Linux
 - 📫 How to reach me https://www.linkedin.com/in/ali-mamdouh-11aa1a233/
 - Electronics and Electrical Communication Engineering student at Cairo University
+- Embedded Linux Trainee at STMicroelectronics
 - Participate in developing Embedded System of Cairo University Racing Team Car
 
 <!---
